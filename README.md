@@ -41,30 +41,44 @@ Let’s connect on [**LinkedIn**](https://www.linkedin.com/in/spadmashree) if yo
 
 ## 🛠️ Tech Toolbox  
 
-### Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+## 🛠️ Tech Toolbox  
 
-### Web Development  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+### Languages  
+<p>
+  <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" width="40"/>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" width="40"/>
+  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" width="40"/>
+  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" width="40"/>
+</p>
 
 ### Databases  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+<p>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" width="40"/>
+  <img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL" width="40"/>
+  <img src="https://img.icons8.com/color/48/oracle-logo.png" alt="Oracle" width="40"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="MongoDB" width="40"/>
+</p>
 
-### Specializations  
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF6384?style=for-the-badge&logo=plotly&logoColor=white)  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)  
+### Web Development  
+<p>
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" width="40"/>
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" width="40"/>
+  <img src="https://img.icons8.com/color/48/angularjs.png" alt="Angular" width="40"/>
+  <img src="https://img.icons8.com/color/48/react-native.png" alt="React.js" width="40"/>
+  <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" width="40"/>
+  <img src="https://img.icons8.com/color/48/express-js.png" alt="Express.js" width="40"/>
+  <img src="https://img.icons8.com/color/48/asp.png" alt="ASP.NET" width="40"/>
+</p>
+
+### Tools / Others  
+<p>
+  <img src="https://img.icons8.com/color/48/tensorflow.png" alt="TensorFlow" width="40"/>
+  <img src="https://img.icons8.com/color/48/keras.png" alt="Keras" width="40"/>
+  <img src="https://img.icons8.com/color/48/git.png" alt="Git" width="40"/>
+  <img src="https://img.icons8.com/color/48/github--v1.png" alt="GitHub" width="40"/>
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" width="40"/>
+  <img src="https://img.icons8.com/color/48/intellij-idea.png" alt="IntelliJ IDEA" width="40"/>
+</p>
 
 ---
 
